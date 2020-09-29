@@ -5,6 +5,8 @@ import java.util.List;
 
 // Modificación A
 
+// Modificación B
+
 public class ArbolVacio<E extends Comparable<E>> extends Arbol<E> {
 
 	public ArbolVacio(){
