@@ -3,6 +3,8 @@ package isi.died.tp.estructuras;
 import java.util.ArrayList;
 import java.util.List;
 
+// Modificación A
+
 public class ArbolVacio<E extends Comparable<E>> extends Arbol<E> {
 
 	public ArbolVacio(){
